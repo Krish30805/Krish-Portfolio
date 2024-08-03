@@ -104,7 +104,7 @@ export const SKILLS = [
 
 export const SOCIAL_MEDIA_LINKS = [
   {
-    href: "https://x.com/",
+    href: "https://www.instagram.com/_yourkrishh?igsh=cWt3bW11eGllaWlo&utm_source=qr",
     icon: <div className="group relative inline-block">
     <button className="focus:outline-none">
       <svg
