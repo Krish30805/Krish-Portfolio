@@ -25,7 +25,7 @@ const File = () => {
             <span className="font-bold text-5xl">Jr</span>
             <p className="text-xs">Frontend Developer</p>
           </div>
-          <a href="" className="duration-300 hover:bg-violet-900 border hover:text-gray-50 bg-gray-50 font-semibold text-violet-900 px-3 py-2 flex flex-row items-center gap-3">Dowload CV 
+          <a href="https://drive.google.com/file/d/1C0IJZIpdv7kCWIVr7Gvui_M-hpiHLUjB/view?usp=drive_link" className="duration-300 hover:bg-violet-900 border hover:text-gray-50 bg-gray-50 font-semibold text-violet-900 px-3 py-2 flex flex-row items-center gap-3">Dowload CV 
             <svg y="0" xmlns="http://www.w3.org/2000/svg" x="0" width="100" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid meet" height="100" className="w-6 h-6 fill-current">
             <path fillRule="evenodd" d="M22.1,77.9a4,4,0,0,1,4-4H73.9a4,4,0,0,1,0,8H26.1A4,4,0,0,1,22.1,77.9ZM35.2,47.2a4,4,0,0,1,5.7,0L46,52.3V22.1a4,4,0,1,1,8,0V52.3l5.1-5.1a4,4,0,0,1,5.7,0,4,4,0,0,1,0,5.6l-12,12a3.9,3.9,0,0,1-5.6,0l-12-12A4,4,0,0,1,35.2,47.2Z">
             </path>
