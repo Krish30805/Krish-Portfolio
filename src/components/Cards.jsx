@@ -1,10 +1,13 @@
-import image1 from "../assets/animatedlp.png"
+import image1 from "../assets/rest.png"
 import image2 from "../assets/whac a mole.png";
 import image3 from "../assets/ecom.png";
 import image4 from "../assets/cocacolalp.png";
 import image5 from "../assets/avengerspuzzle.png";
 import image6 from "../assets/expensetracker.png";
 import image7 from "../assets/flappybird.png";
+import image8 from "../assets/tribute.png";
+
+
 
 
 
@@ -20,13 +23,14 @@ const Cards = () => {
 
   return (
     <div  className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 place-content-center gap-10 bg-gradient-to-br px-4 py-12 text-slate-900">
-      <TiltCard title="Animated Landing Page" image={image1} subtitle="An animated landing page made with basics of frontend using html, css and using gsap for animation."/>
+      <TiltCard title="Restaurant" image={image1} subtitle="A restaurant e-commerce page made with basics of web development." link="https://krish30805.github.io/Restaurant-E-comm/"/>
       <TiltCard title="Whac A Mole" image={image2} subtitle="An enthusiatic game made by using html , css and javascript." link="https://krish30805.github.io/Whac-A-Mole-game/" />
       <TiltCard title="E-commerce MedStore" image={image3} subtitle="An e-comm resonsive medical store home page made by using frontend basics html and css." link="https://krish30805.github.io/E-commerce-MedStore/" />
       <TiltCard title="Coca-Cola Landing Page" image={image4} subtitle="A Re-disgned landing page of Coca-Cola using html and css." link="https://krish30805.github.io/Landing-page/" />
       <TiltCard title="Avenger's Puzzle" image={image5} subtitle="A small game of puzzle solving an image of avengers." link="https://krish30805.github.io/Avenger-s-Puzzle/" />
       <TiltCard title="Expense Tracker" image={image6} subtitle="An expense tracker for your keeping track on your budget made by using html, css and javascript." link="https://krish30805.github.io/Expense-Tracker/" />
       <TiltCard title="FlappyBird" image={image7} subtitle="An enthusiatic game made by using html , css and javascript." link="https://krish30805.github.io/FlappyBird-Game/" />
+      <TiltCard title="Tribute to APJ.AK" image={image8} subtitle="A tribute page to apj abdul kalam,the misile man of India." link="https://krish30805.github.io/Tribute-APJ/" />
     </div>
   );
 };
